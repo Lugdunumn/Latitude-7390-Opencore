@@ -4,7 +4,7 @@ i7-8650U
 
 16GB
 
-OpenCore 0.6
+OpenCore 0.6.4
 
 Catalina
 
