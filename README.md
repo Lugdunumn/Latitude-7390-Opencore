@@ -1,9 +1,14 @@
 # Latitude-7390-Opencore
 
 i7-8650U
+
 16GB
+
 OpenCore 0.6
+
 Catalina
+
+Intel wifi card and Bluetooth
 
 # Credit
 
