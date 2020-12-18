@@ -6,7 +6,7 @@ i7-8650U
 
 OpenCore 0.6.4
 
-Catalina
+Big Sur
 
 Intel wifi card and Bluetooth
 
